@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Language: en_GB\n"
+
+msgid "addon_name"
+msgstr "Rai TV"
+
+msgid "addon_description"
+msgstr "Stremio add-on for Rai TV"
